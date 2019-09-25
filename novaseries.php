@@ -13,6 +13,7 @@
 			'The Hausting of Hill House',
 			'Westworld',
 			'Tha Handmaid\'s Tale',
+			'Batman',
 		);
 	} else {
 		// $ultima = count($_SESSION['disponiveis'])-1;
